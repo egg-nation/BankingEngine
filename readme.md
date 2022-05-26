@@ -1,4 +1,8 @@
 **Project architecture**
+
+Implementation of a banking application containing: user registration and authentication, each user having one or multiple accounts - current, deposits, loans + operations (create, delete, withdraw, deposit, transfer, recurring interests etc.) on them, and the separate option of making card payments.
+
+**Project architecture**
 - Client
 - Server
     - Model
